@@ -10,21 +10,20 @@ A simple and efficient ToDo List application built using Room Database for seaml
 
 ## Features
 
-#### Add Tasks
-Easily add new tasks to your to-do list.
+#### Add Tasks : Easily add new tasks to your to-do list.
 ![Add Task](https://github.com/ROSCDX/CODSOFT_ToDoList_App/blob/master/Todo%20List%20app%20SS/Add_task.jpg)
-#### Edit Tasks
-Edit existing tasks with a user-friendly interface.
+#### Edit Tasks : Edit existing tasks with a user-friendly interface.
+
 ![Edit Task](https://github.com/ROSCDX/CODSOFT_ToDoList_App/blob/master/Todo%20List%20app%20SS/edit_screen.jpg)
-#### Delete Tasks
-Remove completed or unwanted tasks effortlessly.
-![Delete Task](https://github.com/ROSCDX/CODSOFT_ToDoList_App/blob/master/Todo%20List%20app%20SS/delete_swipe.jpgf)
+#### Delete Tasks : Remove completed or unwanted tasks effortlessly.
+
+![Delete Task](https://github.com/ROSCDX/CODSOFT_ToDoList_App/blob/master/Todo%20List%20app%20SS/delete_swipe.jpg)
 ![Delete Task Conformation](https://github.com/ROSCDX/CODSOFT_ToDoList_App/blob/master/Todo%20List%20app%20SS/delete_conformation.jpg)
+
 ## Technologies Used:
-#### Room Database:
-Robust local database for efficient data management.
-#### Android Architecture Components:
-Utilizing the power of Android's recommended architecture.
+
+#### Room Database: Robust local database for efficient data management.
+#### Android Architecture Components: Utilizing the power of Android's recommended architecture.
 
 ## Getting Started:
 
