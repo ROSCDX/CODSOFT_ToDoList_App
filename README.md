@@ -5,7 +5,7 @@ A simple and efficient ToDo List application built using Room Database for seaml
 .
 .
 .
-![Home Page](https://github.com/ROSCDX/CODSOFT_ToDoList_App/blob/master/Todo%20List%20app%20SS/Home_screen.jpg)
+![Home Page](https://github.com/ROSCDX/CODSOFT_ToDoList_App/blob/master/Todo%20List%20app%20SS/Home_screen.jpg){width="200px" height="440px"}
 
 
 ## Features
