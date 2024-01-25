@@ -5,21 +5,20 @@ A simple and efficient ToDo List application built using Room Database for seaml
 .
 .
 .
-![Home Page](https://github.com/ROSCDX/CODSOFT_ToDoList_App/blob/master/Todo%20List%20app%20SS/Home_screen.jpg){width="200px" height="440px"}
-
+### Home Screen
+  <img width="270px" height="600px" src="https://github.com/ROSCDX/CODSOFT_ToDoList_App/blob/master/Todo%20List%20app%20SS/Home_screen.jpg" alt="Home Page">
 
 ## Features
 
 #### Add Tasks : Easily add new tasks to your to-do list.
-![Add Task](https://github.com/ROSCDX/CODSOFT_ToDoList_App/blob/master/Todo%20List%20app%20SS/Add_task.jpg)
+ <img width="270px" height="600px" src="https://github.com/ROSCDX/CODSOFT_ToDoList_App/blob/master/Todo%20List%20app%20SS/Add_task.jpg" alt="Add Task Screen">
 #### Edit Tasks : Edit existing tasks with a user-friendly interface.
-
-![Edit Task](https://github.com/ROSCDX/CODSOFT_ToDoList_App/blob/master/Todo%20List%20app%20SS/edit_screen.jpg)
+<img width="270px" height="600px" src="https://github.com/ROSCDX/CODSOFT_ToDoList_App/blob/master/Todo%20List%20app%20SS/edit_screen.jpg" alt="Edit Screen">
 #### Delete Tasks : Remove completed or unwanted tasks effortlessly.
-
-![Delete Task](https://github.com/ROSCDX/CODSOFT_ToDoList_App/blob/master/Todo%20List%20app%20SS/delete_swipe.jpg)
-![Delete Task Conformation](https://github.com/ROSCDX/CODSOFT_ToDoList_App/blob/master/Todo%20List%20app%20SS/delete_conformation.jpg)
-
+<p>
+  <img width="270px" height="600px" src="https://github.com/ROSCDX/CODSOFT_ToDoList_App/blob/master/Todo%20List%20app%20SS/delete_swipe.jpg" alt="Delete Swipe Screen">
+  <img width="270px" height="600px" src="https://github.com/ROSCDX/CODSOFT_ToDoList_App/blob/master/Todo%20List%20app%20SS/delete_conformation.jpg" alt="Delete Task Screen">
+</p>
 ## Technologies Used:
 
 #### Room Database: Robust local database for efficient data management.
@@ -35,7 +34,7 @@ A simple and efficient ToDo List application built using Room Database for seaml
 
 - Launch the app and explore the clean and intuitive interface.
 - Tap the "+" button to add a new task.
-- Edit tasks by tapping on them or delete them when completed.
+- Edit tasks by swiping left to right or delete them by swiping right to left when completed.
 
 ## Contributions:
 
